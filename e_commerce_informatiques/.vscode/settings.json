@@ -1,0 +1,8 @@
+{
+        "java.debug.settings.env": {
+            "DB_URL": "jdbc:postgresql://localhost:5432/e_commerce_informatiques",
+            "DB_USER": "postgres",
+            "DB_PASSWORD": "poon071200"
+        },
+        "java.compile.nullAnalysis.mode": "automatic"
+}   

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "eCommerceApplication",
+            "request": "launch",
+            "mainClass": "com.example.e_commerce",
+            "env": {
+                "DB_URL": "jdbc:postgresql://localhost:5432/e_commerce_informatiques",
+                "DB_USER": "postgres",
+                "DB_PASSWORD": "poon071200"
+            },
+            "debug": true
+        }
+        
+ ]
+} 
+
+
